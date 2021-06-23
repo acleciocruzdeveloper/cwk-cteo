@@ -1,0 +1,30 @@
+*{
+    font-family: Noto Sans, Sans-serif;
+}
+#home {
+    background: #ffc107;
+    color: white;
+    margin: 0;
+}
+.caixa {
+    padding: 60px;
+    border-bottom: 1px solid #e5e5e5;
+}
+footer p a{
+    margin: 5px 15px;
+}
+
+.display-4{
+    font-size: 2rem;
+    font-weight: 400;
+}
+.ort-text{
+    font-weight: 600;
+    color: black;
+}
+.cursos {
+    text-decoration: none;
+}
+.list-group-item {
+    border:none;
+}
